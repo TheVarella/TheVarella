@@ -1,4 +1,4 @@
-### Olá! Sou o Gustavo Varella!!
+### Olá! Sou o Gustavo Varella.
 
 <div align="center">
   <a href="https://github.com/TheVarella">
