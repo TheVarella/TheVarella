@@ -1,4 +1,4 @@
-<h1> Eai! Me chamo Gustavo Varella! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Eai! Me chamo Gustavo Varella <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
 - Futuro desenvolvedor Full-Stack
