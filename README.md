@@ -1,5 +1,5 @@
     
-  <h1> Eai! Me chamo Gustavo Varella
+  <h1> Eai! Me chamo Gustavo Varella <h1>
 
 
 - Futuro desenvolvedor Full-Stack
