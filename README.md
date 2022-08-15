@@ -3,7 +3,7 @@
 
 
 - I’m currently studying at Colégio Joseense
-- I,m currently learning HTML5, CSS3 and JavaScript
+- I’m currently learning HTML5, CSS3 and JavaScript
 
 
 <div align="center">
