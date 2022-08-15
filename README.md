@@ -1,5 +1,5 @@
     
-  <h1> Eai! Me chamo Gustavo Varella <h1>
+  <h1> Hello! My name is Gustavo Varella, welcome to my Github profile! <h1>
 
 
 - Futuro desenvolvedor Full-Stack
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVarella&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-   ## 🛠 &nbsp;Tecnologias que estudo
+   ## 🛠 &nbsp;Technologies I study
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
