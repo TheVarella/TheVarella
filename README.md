@@ -4,6 +4,7 @@
 
 - I’m currently studying Analysis and Systems Development
 - I’m currently learning JavaScript, Vue and ReactJS
+- IT course completed in 2023 by Colégio Joseense
 
 
 <div align="center">
