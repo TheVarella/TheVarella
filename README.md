@@ -2,8 +2,8 @@
   <h1> Hello! My name is Gustavo Varella, welcome to my Github profile! <h1>
 
 
-- I’m currently studying at Colégio Joseense
-- I’m currently learning HTML5, CSS3, JavaScript and ReactJS
+- I’m currently studying Analysis and Systems Development
+- I’m currently learning JavaScript, Vue and ReactJS
 
 
 <div align="center">
