@@ -3,8 +3,8 @@
 
 
 - I’m currently studying Analysis and Systems Development
-- I’m currently learning Python, JavaScript and ReactJS
-- IT course completed in 2023 by Colégio Joseense
+- Web Desing | UX/UI | Python | JavaScript
+- IT technical course
 - IT Internship at Cooperemb
 
 
