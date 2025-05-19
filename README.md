@@ -15,7 +15,8 @@
 </div>
 </div>
       
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=octocat.Hello-World)
+![Visitors](https://img.shields.io/badge/Visitors-0-brightgreen)
+
 
 
 
