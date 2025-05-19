@@ -14,5 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVarella&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </div>
-![Visitantes GitHub](https://komarev.com/ghpvc/?username=The_Varella&style=flat&color=blue)
+<div
+    ![Visitantes GitHub](https://komarev.com/ghpvc/?username=The_Varella&style=flat&color=blue)
+</div>
+
 
