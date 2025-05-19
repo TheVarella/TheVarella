@@ -2,8 +2,8 @@
   <h1> Hello! My name is Gustavo Varella, welcome to my Github profile! <h1>
 
 
-🧑‍💻 I’m currently studying Analysis and Systems Development
-🖥️ Web Desing | UX/UI | Python | JavaScript
+🧑‍💻 I’m currently studying Analysis and Systems Development <br>
+🖥️ Web Desing | UX/UI | Python | JavaScript <br>
 🛠️ IT technical course & IT Internship
 
 <div align="center">
