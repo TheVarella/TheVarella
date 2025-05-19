@@ -15,7 +15,6 @@
 </div>
 </div>
       
-![Visitors](https://img.shields.io/badge/Visitors-0-brightgreen)
 
 
 
