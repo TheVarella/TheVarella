@@ -14,5 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVarella&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </div>
+      
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=octocat.Hello-World)
+
 
 
