@@ -6,10 +6,7 @@
 🖥️ Web Desing | UX/UI | Python | JavaScript <br>
 🛠️ IT technical course & IT Internship
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-varella-2518b3227/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavovarella8@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-varella-2518b3227/) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavovarella8@gmail.com)
 
 <div align="center">
   <a href="https://github.com/TheVarella">
