@@ -4,7 +4,7 @@
 
 🧑‍💻 Studying Analysis and Systems Development at UNiversidade Paulista (UNIP) <br>
 🖥️ Web Desing | UX/UI | Python | JavaScript <br>
-🛠️ IT technical course & IT Internship
+🛠️ IT technical course | IT Intern at Cooperemb
 
 <div align="center"
     
