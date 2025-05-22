@@ -2,7 +2,7 @@
   <h1> Hello! My name is Gustavo Varella, welcome to my Github profile! <h1>
 
 
-🧑‍💻 Studying Analysis and Systems Development at UNiversidade Paulista (UNIP) <br>
+🧑‍💻 Studying Analysis and Systems Development at Universidade Paulista (UNIP) <br>
 🖥️ Web Desing | UX/UI | Python | JavaScript <br>
 🛠️ IT technical course | IT Intern at Cooperemb
 
